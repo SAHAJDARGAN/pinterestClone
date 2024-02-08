@@ -1,6 +1,4 @@
-/ -> login and register screen -> done
-
-
+/ -> login and register screen 
 /register 
 /login 
 /profile -> profile page with boards 
